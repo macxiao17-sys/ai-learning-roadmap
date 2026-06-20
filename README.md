@@ -9,6 +9,7 @@ AI学习路线/
 ├── 01-AI-Infra学习路线.md      # AI基础设施：CUDA、分布式训练、推理优化
 ├── 02-基模训练学习路线.md       # 基础模型训练：Transformer、数据工程、预训练、对齐
 ├── 03-Agent开发学习路线.md      # Agent开发：Prompt Engineering、工具调用、RAG、多Agent
+├── 04-赚钱路线.md              # AI行业赚钱路线：技术变现→产品变现→资本变现
 └── README.md
 ```
 
@@ -32,6 +33,11 @@ AI学习路线/
 - Agent框架（LangChain、LangGraph、CrewAI）
 - RAG与记忆系统
 - 生产级Agent系统
+
+### 04 - 赚钱路线
+- 四大上行赛道（科技、银发、宠物、出海）
+- 三阶段变现路径（技术→产品→资本）
+- 避坑指南与时间线规划
 
 ## 每份路线包含
 - ✅ 分阶段学习路线（带时间线）
